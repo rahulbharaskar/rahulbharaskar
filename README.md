@@ -35,7 +35,7 @@ I am a **Full Stack Web Developer** with expertise in:
 ---
 
 ### 🌐 **Links**
-- 💼 [LinkedIn Profile](www.linkedin.com/in/rahul-bharaskar-a9022b228/)
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/rahul-bharaskar-a9022b228/)
 - 🚀 [LeetCode Profile](https://leetcode.com/u/rahulbharaskar1234/)
 - 📧 Email: [rahulbharaskar1234@gmail.com](mailto:rahulbharaskar@gmail.com)
 - 💬 [WhatsApp](https://wa.me/7977058182)
